@@ -20,5 +20,5 @@ import Echo from "laravel-echo";
 
 window.Echo = new Echo({
     broadcaster: 'socket.io',
-    host: 'https://broadcast:6001' // this is laravel-echo-server host
+    host: 'https://event.tropicalhub.co:1234' // this is laravel-echo-server host
 });

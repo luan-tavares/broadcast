@@ -415,3 +415,6 @@
 127.0.0.1 - - [01/Jan/2022:22:52:54 -0300] "GET /js/app.js HTTP/1.1" 200 657143 "https://broadcast/w" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
 127.0.0.1 - - [01/Jan/2022:22:52:54 -0300] "GET /js/app.js HTTP/1.1" 200 657143 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
 127.0.0.1 - - [01/Jan/2022:22:53:00 -0300] "GET / HTTP/1.1" 200 33 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
+127.0.0.1 - - [01/Jan/2022:23:17:32 -0300] "GET /w HTTP/1.1" 200 672 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
+127.0.0.1 - - [01/Jan/2022:23:17:32 -0300] "GET /css/app.css HTTP/1.1" 200 1 "https://broadcast/w" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
+127.0.0.1 - - [01/Jan/2022:23:17:32 -0300] "GET /js/app.js HTTP/1.1" 200 657143 "https://broadcast/w" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"

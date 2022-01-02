@@ -19,7 +19,7 @@
         </div>
     </body>
 
-    <script src="//{{ Request::getHost() }}:6001/socket.io/socket.io.js"></script>
+    <script src="//{{ Request::getHost() }}:1234/socket.io/socket.io.js"></script>
     <script src="{{ url('/js/app.js') }}" type="text/javascript"></script>
       
     <script type="text/javascript">
